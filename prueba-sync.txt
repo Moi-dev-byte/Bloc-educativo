@@ -1,1 +1,3 @@
 Prueba de sincronización desde Termux
+Cambio remoto desde GitHub para prueba de pull
+Modificación remota para prueba de sincronización
